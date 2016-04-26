@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Darthpwner/AndroidStudioProjects/ACMHackEggTimerTemplate/app/build/intermediates/res/merged/debug/raw/egg.jpg",
+        "source": "/Users/Darthpwner/AndroidStudioProjects/ACMHackEggTimerTemplate/app/src/main/res/raw/egg.jpg"
+    },
+    {
+        "merged": "/Users/Darthpwner/AndroidStudioProjects/ACMHackEggTimerTemplate/app/build/intermediates/res/merged/debug/raw/airhorn.mp3",
+        "source": "/Users/Darthpwner/AndroidStudioProjects/ACMHackEggTimerTemplate/app/src/main/res/raw/airhorn.mp3"
+    }
+]
