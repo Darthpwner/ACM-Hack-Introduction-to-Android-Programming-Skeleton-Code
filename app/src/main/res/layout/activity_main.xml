@@ -7,4 +7,10 @@
     android:fitsSystemWindows="true"
     tools:context="matthewallenlinsoftware.acmhackeggtimertemplate.MainActivity">
 
+    <SeekBar
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/timerSeekBar"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
 </RelativeLayout>
